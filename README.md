@@ -1,5 +1,4 @@
-# Historial-Notificaciones
-Proyecto de AndroidStudio. Historial de las notificaciones recibidas para teléfonos Android
+Historial de Notificaciones
+Proyecto de Android Studio: Registro de notificaciones recibidas para teléfonos Android.
 
-La aplicacion funciona correctamente pero a veces los fabricantes la bloquean porque accede a las notificaciones.
-Sigue en desarrollo.
+La aplicación funciona correctamente; sin embargo, en ocasiones, algunos fabricantes la bloquean debido al acceso a las notificaciones. El proyecto sigue en desarrollo.
